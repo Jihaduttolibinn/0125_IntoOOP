@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0125_IntoOOP", "0125_IntoOOP\0125_IntoOOP.vcxproj", "{011AC04F-3231-4F76-B323-EDE2401D064C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class Bangundatar", "Class Bangundatar\Class Bangundatar.vcxproj", "{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{011AC04F-3231-4F76-B323-EDE2401D064C}.Release|x64.Build.0 = Release|x64
 		{011AC04F-3231-4F76-B323-EDE2401D064C}.Release|x86.ActiveCfg = Release|Win32
 		{011AC04F-3231-4F76-B323-EDE2401D064C}.Release|x86.Build.0 = Release|Win32
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Debug|x64.ActiveCfg = Debug|x64
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Debug|x64.Build.0 = Debug|x64
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Debug|x86.Build.0 = Debug|Win32
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Release|x64.ActiveCfg = Release|x64
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Release|x64.Build.0 = Release|x64
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Release|x86.ActiveCfg = Release|Win32
+		{AD680C16-1CCE-4675-BEC7-5BE1360EFC3B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

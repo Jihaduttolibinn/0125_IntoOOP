@@ -18,4 +18,10 @@ public:
 		cout << "Masukkan Lebarnya = "; // step 1
 		cin >> Lebar;
 	}
+	float hitungLuas() {
+		return panjang * Lebar; // step 2
+
+	}
+
+
 };

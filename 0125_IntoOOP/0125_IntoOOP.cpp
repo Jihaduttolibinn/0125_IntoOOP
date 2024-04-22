@@ -14,7 +14,9 @@ public: // akses modifier
 	}
 };
 
-Class Matakuliah{
+class Matakuliah{
+	private:
 
-}
+
+};
 

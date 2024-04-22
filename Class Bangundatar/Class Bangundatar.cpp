@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-class bangunDtar {
+class bangunDatar {
 
 	//akses modifier
 private:
@@ -29,3 +29,13 @@ public:
 	}
 
 };
+ 
+
+int main() {
+	bangunDatar pp; // Deklarasi objek pp dari class bangunDatar
+	pp.input();
+	pp.display();
+
+
+	return 0;
+	}

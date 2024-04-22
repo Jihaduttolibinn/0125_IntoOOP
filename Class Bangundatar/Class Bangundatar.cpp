@@ -22,6 +22,10 @@ public:
 		return panjang * Lebar; // step 2
 
 	}
-
+	void display() {
+		cout << "Panjangya = " << panjang << endl;
+		cout << "Lebarnya = " << Lebar << endl; // step 3
+		cout << "Luasnya = " << hitungLuas() << endl;
+	}
 
 };

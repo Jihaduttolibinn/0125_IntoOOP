@@ -29,6 +29,10 @@ class Matakuliah{
 			cin >> sks;
 		}
 
+		void output() {
+
+		}
+
 
 };
 
